@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/algorithms20290-2021-repository-Philipbyrne.iml" filepath="$PROJECT_DIR$/.idea/algorithms20290-2021-repository-Philipbyrne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/compression-assignment/compression-assignment.iml" filepath="$PROJECT_DIR$/compression-assignment/compression-assignment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk10-data-compression/wk10-data-compression.iml" filepath="$PROJECT_DIR$/wk10-data-compression/wk10-data-compression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk2-algorithm-analysis/wk2-algorithm-analysis.iml" filepath="$PROJECT_DIR$/wk2-algorithm-analysis/wk2-algorithm-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk3-complexity-analysis/wk3-complexity-analysis.iml" filepath="$PROJECT_DIR$/wk3-complexity-analysis/wk3-complexity-analysis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk4-recursion/wk4-recursion.iml" filepath="$PROJECT_DIR$/wk4-recursion/wk4-recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk5-sorting-algorithms/wk5-sorting-algorithms.iml" filepath="$PROJECT_DIR$/wk5-sorting-algorithms/wk5-sorting-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk6-sorting-algorithms-mergesort/wk6-sorting-algorithms-mergesort.iml" filepath="$PROJECT_DIR$/wk6-sorting-algorithms-mergesort/wk6-sorting-algorithms-mergesort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk7-sorting-algorithms-quicksort/wk7-sorting-algorithms-quicksort.iml" filepath="$PROJECT_DIR$/wk7-sorting-algorithms-quicksort/wk7-sorting-algorithms-quicksort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk8-search-algorithms/wk8-search-algorithms.iml" filepath="$PROJECT_DIR$/wk8-search-algorithms/wk8-search-algorithms.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wk9-tries/wk9-tries.iml" filepath="$PROJECT_DIR$/wk9-tries/wk9-tries.iml" />
+    </modules>
+  </component>
+</project>
